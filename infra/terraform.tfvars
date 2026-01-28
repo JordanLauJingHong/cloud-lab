@@ -1,0 +1,5 @@
+region           = "ap-southeast-1"
+instance_type    = "t3.micro"
+allowed_ssh_cidr = "0.0.0.0/0"
+project_name     = "tf-free-web"
+environment      = "dev"
