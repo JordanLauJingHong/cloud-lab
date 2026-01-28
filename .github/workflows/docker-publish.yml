@@ -27,4 +27,4 @@ jobs:
         with:
           context: ./app
           push: true
-          tags: ghcr.io/${{ lower(github.repository_owner) }}/cloud-lab-api:latest
+          tags: ghcr.io/jordanlaujinghong/cloud-lab-api:latest
